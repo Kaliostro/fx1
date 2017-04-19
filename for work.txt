@@ -1,0 +1,10 @@
+E:\FINMARKETS\SITE\> D:\Python34\python -m venv fx1
+
+cd /d E:\FINMARKETS\SITE\
+
+fx1\Scripts\activate.bat
+
+python manage.py runserver
+
+login: art
+without e-mail and password
